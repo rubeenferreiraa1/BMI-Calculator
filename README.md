@@ -1,6 +1,6 @@
 #  BMI Calculator
 
-## Our Goal
+## Goal
 
 Learned more about Optionals, solidify my understanding of the MVC design pattern and to introduce the concept of Classes.
 
